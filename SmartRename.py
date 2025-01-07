@@ -1,6 +1,6 @@
 import os
 
-carpeta = 'C:/Users/chane/Desktop/ProyectosCV/#1'
+carpeta = 'direccion/de/los/archivos'
 lista_archivos = os.listdir(carpeta)
 texto_buscar = input("Introduce el texto a buscar: ")
 texto_reemplazar = input("Introduce el texto de reemplazo: ")
